@@ -1,10 +1,14 @@
+// Typecast 🔢
+// Codédex
+
 using System;
 
 class Program
 {
   static void Main()
   {
-    // If you're doing the bonus challenge, write your code here! 💖
-
+    int monitors = 2;
+    string laptopType = "Macbook";
+    bool cluttered = true;
   }
 }
