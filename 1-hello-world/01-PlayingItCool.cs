@@ -3,7 +3,7 @@
 
 using System;
 
-class Program
+class PlayingItCool
 {
   static void Main()
   {

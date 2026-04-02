@@ -3,7 +3,7 @@
 
 using System;
 
-class Program
+class MathIsMathing
 {
   static void Main()
   {

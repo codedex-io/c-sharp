@@ -1,9 +1,9 @@
-// What's In A Name 🐣
+// Baby Names 🐣
 // Codédex
 
 using System;
 
-class Program
+class BabyNames
 {
   static void Main()
   {
