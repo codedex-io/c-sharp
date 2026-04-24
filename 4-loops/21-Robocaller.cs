@@ -1,18 +1,18 @@
-// Weekend Plans 🛼
+// Robocaller 🤖
 // Codédex
 
 using System;
 
-class WeekendPlans
+class Robocaller
 {
   static void Main()
   {
-    // bool rinkOpen = true;
-    bool rinkOpen = false;
+    int count = 1;
 
-    if (rinkOpen)
+    while (count <= 4)
     {
-      Console.WriteLine("Let’s go skating, yippee!");
+      Console.WriteLine("This is Macintosh. We detected a virus on your computer.");
+      count++;
     }
   }
 }
