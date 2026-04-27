@@ -14,8 +14,8 @@ class YearOfTheX
 
     int cycle = 12;
 
-    int yearsUntilZodiac = (cycle - (birthYear % cycle)) % cycle;
-
+    int yearsUntilZodiac = (cycle - ((currentYear - birthYear) % cycle)) % cycle;
+    
     Console.WriteLine("Your zodiac year comes again in " + yearsUntilZodiac + " year(s)!");
   }
 }
