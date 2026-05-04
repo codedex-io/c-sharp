@@ -1,9 +1,9 @@
-// Break The Cycle 🔁
+// Tickle Monster 🤗
 // Codédex
 
 using System;
 
-class BreakTheCycle
+class TickleMonster
 {
   static void Main()
   {

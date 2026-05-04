@@ -1,9 +1,9 @@
-// Rewind Reverse 🛗
+// Uno Reverse ⏮️
 // Codédex
 
 using System;
 
-class RewindReverse
+class UnoReverse
 {
   static void Main()
   {
