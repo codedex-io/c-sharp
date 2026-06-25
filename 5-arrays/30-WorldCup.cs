@@ -1,9 +1,9 @@
-// Hi-Score ⚽️
+// World Cup ⚽️
 // Codédex
 
 using System;
 
-class HiScore
+class WorldCup
 {
   static void Main()
   {
