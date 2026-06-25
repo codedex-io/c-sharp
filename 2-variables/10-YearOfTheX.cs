@@ -12,7 +12,7 @@ class YearOfTheX
     string input = Console.ReadLine();
     int birthYear = int.Parse(input);
     
-    int currentYear = 2026
+    int currentYear = 2026;
     int cycle = 12;
 
     int yearsUntilZodiac = (cycle - ((currentYear - birthYear) % cycle)) % cycle;
